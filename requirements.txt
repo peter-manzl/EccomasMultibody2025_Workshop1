@@ -10,7 +10,6 @@ jupyterlab-rise
 ipywidgets 
 scikit-learn
 hf_xet
-jupyterlab
 ipywidgets
 
 gpt4all
