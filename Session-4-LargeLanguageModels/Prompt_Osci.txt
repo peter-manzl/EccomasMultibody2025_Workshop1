@@ -1,0 +1,2 @@
+Create Python code for a 2-mass spring-damper with m1=1kg, m2=5kg, k1=k2=1600N/m and d1=d2=8Nm/s using scipy. The initial displacement and Velocity shall be 0 for both masses, but on the second mass a force F=100*np.sin(t) should act. Plot the displacements of both masses. 
+Create only the code and no additional output. 
